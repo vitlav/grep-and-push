@@ -1,0 +1,818 @@
+     libattr-devel-static - Static library for extended attribute support
+          qemu 	shaba glebfm
+
+     boost-devel-static - Boost libraries
+          karbowanecwallet 	drool @everybody
+          sibcoin 	drool @everybody
+          taler 	drool @everybody
+
+     bzlib-devel-static - Static library for developing apps which will use bzip2
+          binkd 	gremlin @qa
+
+     libdruntime-devel-static - Static D runtime development files.
+          dmd 	darktemplar @everybody
+          dub 	darktemplar @everybody
+          onedrive 	lav @everybody
+
+     libphobos2-devel-static - Phobos is the standard runtime library that comes with the D language compiler.
+          dmd 	darktemplar @everybody
+          dub 	darktemplar @everybody
+          onedrive 	lav @everybody
+
+     libdw-devel-static - Static libdw library
+          java-10-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+
+     libelf-devel-static - Static libelf library
+          bcc 	vt @everybody
+          java-10-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+
+     libasan-devel-static - Dependency package for libasan-devel-static
+          clickhouse 	rider darktemplar
+          simpletest 	bircoph @everybody
+
+     liblsan-devel-static - Dependency package for liblsan-devel-static
+          simpletest 	bircoph @everybody
+
+     libtsan-devel-static - Dependency package for libtsan-devel-static
+          simpletest 	bircoph @everybody
+
+     libubsan-devel-static - Dependency package for libubsan-devel-static
+          simpletest 	bircoph @everybody
+          trikStudio 	sin @everybody
+          trikStudioJunior 	greh @everybody
+
+     libasan10-devel-static - The Address Sanitizer static library
+          clickhouse 	rider darktemplar
+          simpletest 	bircoph @everybody
+
+     libgfortran10-devel-static - Static libraries for GNU Fortran development
+          libitpack 	@nobody
+          random 	@nobody
+
+     liblsan10-devel-static - The Leak Sanitizer static library
+          simpletest 	bircoph @everybody
+
+     libstdc++10-devel-static - Static libraries for C++ development
+          binutils 	@core
+          boinc 	oddity @everybody
+          bpftrace 	vt @everybody
+          bsign 	lav @everybody
+          ceph 	shaba @qa
+          chromium 	legion cas
+          chromium-gost 	george @everybody
+          clickhouse 	rider darktemplar
+          corectrl 	lav @everybody
+          freeradius 	shaba @everybody
+          glibc 	@core
+          gsoap 	sin @everybody
+          hurrican 	arbars @everybody
+          ispc 	vt @everybody
+          java-1.7.0-openjdk 	viy @jvm @everybody
+          java-1.8.0-openjdk 	cas viy @everybody
+          java-10-openjdk 	viy @jvm @everybody
+          java-11-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+          libmegasdk 	lav @everybody
+          libmtxclient 	manowar @everybody
+          openjfx 	viy @everybody
+          praat 	mike @qa
+          qt5-webengine 	zerg
+          scilab 	cas @everybody
+          snappy-java 	viy @everybody
+          taler 	drool @everybody
+          virtualbox 	sin nbr greh
+          waybar 	legion @everybody
+          xmrig 	drool @everybody
+
+     libtsan10-devel-static - The Thread Sanitizer static library
+          simpletest 	bircoph @everybody
+
+     libubsan10-devel-static - The Undefined Behavior Sanitizer static library
+          simpletest 	bircoph @everybody
+          trikStudio 	sin @everybody
+          trikStudioJunior 	greh @everybody
+
+     libstdc++8-devel-static - Static libraries for C++ development
+          cve-manager 	alexey
+
+     glib2-devel-static - Static version of GLib libraries
+          qemu 	shaba glebfm
+
+     glibc-devel-static - Static libraries for C development
+          CTK 	darktemplar @everybody
+          ImageMagick 	rider @cpan
+          OpenBoard 	antohami @everybody
+          SDL_net 	lvol @everybody
+          aMule 	oddity @everybody
+          alleyoop 	viy @everybody
+          amsynth 	ruslandh @everybody
+          appmenu-qt5 	zerg
+          apr1 	@nobody
+          argwrapper 	george @everybody
+          ash 	legion
+          audiofile 	mike @everybody
+          avarice 	majioa @everybody
+          bcc 	vt @everybody
+          binkd 	gremlin @qa
+          binutils 	@core
+          boinc 	oddity @everybody
+          bpftrace 	vt @everybody
+          bsign 	lav @everybody
+          bubblewrap 	aris lav
+          bzip2 	@core
+          calibre 	lav
+          castxml 	darktemplar @everybody
+          ceph 	shaba @qa
+          checkpolicy 	rider sem darktemplar
+          chromium 	legion cas
+          chromium-gost 	george @everybody
+          clickhouse 	rider darktemplar
+          corectrl 	lav @everybody
+          coreutils 	@core
+          cpio 	@core
+          cri-o 	shaba @everybody
+          curl 	rider ldv glebfm
+          cve-manager 	alexey
+          cvise 	lav @everybody
+          deepin-editor 	lvol @everybody
+          deepin-qt5integration 	lvol @everybody
+          deepin-qt5platform-plugins 	lvol @everybody
+          dill 	@nobody
+          directfb 	mike @everybody
+          distcc 	lav @everybody
+          dmd 	darktemplar @everybody
+          dmraid 	aris @everybody
+          dolphin-emu 	nenderus @everybody
+          dssi 	@nobody
+          dtkwidget 	lvol @everybody
+          dub 	darktemplar @everybody
+          fidoconf 	gremlin @qa
+          findutils 	@core
+          firefox 	legion sbolshakov glebfm
+          firefox-esr 	cas @everybody
+          fpc 	cas @qa @everybody
+          freecad 	cas @everybody
+          freeradius 	shaba @everybody
+          freetds 	naf @everybody
+          fritzing 	grenka
+          fs-uae 	george @everybody
+          gcc4.3 	glebfm @everybody
+          getfemxx 	zerg @everybody
+          ggaoed 	sbolshakov @everybody
+          ggz-base-libs 	viy @everybody
+          ghc8.6.4 	sin @everybody
+          ghostscript 	george vitty kirill @qa @everybody
+          glibc 	@core
+          glpk 	@nobody
+          glpk36 	@nobody
+          gnustep-base 	cas @everybody
+          gsoap 	sin @everybody
+          gtk-engines-dwerg 	@nobody
+          gtk-engines-mgicchikn 	@nobody
+          gtk-engines-wonderland 	@nobody
+          hashlink 	mithraen @everybody
+          honggfuzz 	vt @everybody
+          httperf 	naf @everybody
+          hurrican 	arbars @everybody
+          huskylib 	gremlin @qa
+          installer 	boyarsh rider timonbl4 mike sem klark antohami @qa
+          instead 	george @everybody
+          ipxe 	shaba
+          ispc 	vt @everybody
+          janus 	naf @qa
+          java-1.7.0-openjdk 	viy @jvm @everybody
+          java-1.8.0-openjdk 	cas viy @everybody
+          java-10-openjdk 	viy @jvm @everybody
+          java-11-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+          kakasi 	oddity @everybody
+          karbowanecwallet 	drool @everybody
+          kcov 	glebfm @qa
+          kde5-calendarsupport 	zerg
+          kde5-eventviews 	zerg
+          kde5-kmail-account-wizard 	zerg
+          kde5-korganizer 	zerg
+          kde5-libkdepim 	zerg
+          kde5-libksieve 	zerg
+          kde5-mailcommon 	zerg
+          kde5-mailimporter 	zerg
+          kde5-messagelib 	zerg
+          kde5-pim-apps-libs 	zerg
+          kde5-pimcommon 	zerg
+          kernel-image-ovz-el7 	andy
+          kernel-image-std-debug 	kernelbot @kernel
+          kernel-image-std-def 	boyarsh @kernel
+          kernel-image-std-kvm 	andy @kernel @everybody
+          kernel-image-un-def 	boyarsh @kernel
+          kernel-modules-lkrg-std-debug 	vt @kernel vseleznv
+          kernel-modules-lkrg-std-def 	vseleznv @kernel
+          kernel-modules-lkrg-un-def 	vseleznv @kernel
+          kexi 	zerg
+          kf5-kjsembed 	zerg
+          kf5-kross 	zerg
+          kf5-kwidgetsaddons 	zerg
+          kismet 	viy @everybody
+          klatexformula 	george @everybody
+          kmod 	legion
+          kvmtool 	shaba @everybody
+          lam 	dans @everybody @qa
+          lesstif 	sin snejok @qa @everybody
+          libcxx 	lav @everybody
+          libcxxabi 	lav @everybody
+          libdotconf 	msp @qa @everybody
+          libdwarf 	lav @everybody
+          libevhtp 	viy lav @everybody
+          libgc 	lav @qa @everybody
+          libglfw3 	george @everybody
+          libhugetlbfs 	viy @everybody
+          libitpack 	@nobody
+          libm17n 	legion vseleznv
+          libmcrypt 	lav @qa @everybody
+          libmegasdk 	lav @everybody
+          libmhash 	@nobody
+          libmm 	mike @qa
+          libmozjs78 	aris
+          libmtxclient 	manowar @everybody
+          libpopt 	@core rider
+          librudeconfig 	lav @everybody
+          libselinux 	rider nbr darktemplar
+          libsidplayfp 	drool @everybody
+          libunibreak 	mvk @everybody
+          libwebsockets 	lav @everybody
+          lightdm-kde-greeter 	darktemplar @everybody
+          linux-tools 	vt @everybody
+          liri-eglfs 	sbolshakov @everybody
+          liri-materialdecoration 	sbolshakov @everybody
+          liri-platformtheme 	sbolshakov @everybody
+          lksctp-tools 	mithraen @everybody
+          llvm11.0 	shrek arseny
+          llvm12.0 	arseny @everybody
+          lmms 	antohami @everybody
+          lvm2 	shaba vitty rider
+          lxc 	vseleznv dans @everybody
+          maliit-framework 	zerg
+          mdadm 	shaba vitty @everybody
+          merkaartor 	darktemplar @everybody
+          miredo 	naf @qa
+          mnogosearch 	naf @qa
+          moc 	legion
+          musescore 	lav @qa @everybody
+          mysql-connector-odbc 	nickel @everybody
+          nautilus-share 	@gnome @everybody
+          ncmpcpp 	arseny @everybody
+          net-snmp35 	shaba @everybody
+          nvidia-xconfig 	zerg
+          ocaml 	rider shaba @qa
+          ois 	@nobody
+          onedrive 	lav @everybody
+          openhantek 	lav @everybody
+          openjfx 	viy @everybody
+          openmpi 	dans stanv @everybody
+          openvpn 	naf
+          openvpn-gostcrypto 	sem @everybody
+          orbuculum 	sbolshakov @everybody
+          ossp-uuid 	viy @everybody
+          pam_script 	lav @everybody
+          parted 	shrek @everybody
+          pcsxr 	nenderus @everybody
+          pg_catcheck 	kondratyuk @everybody
+          pg_rman 	darktemplar @everybody
+          php7-apcu 	naf @everybody
+          php7-gd 	rider
+          php8.0-apcu 	rider @everybody
+          php8.0-gd 	rider @everybody
+          plasma5-integration 	zerg @everybody
+          plasma5-kwin 	zerg
+          plasma5-layer-shell-qt 	zerg
+          plasma5-nm 	zerg @everybody
+          plasma5-workspace 	zerg mcpain
+          pmplib 	@nobody
+          poke 	naf @everybody
+          policycoreutils 	rider zerg darktemplar
+          polyml 	zerg @everybody
+          praat 	mike @qa
+          prometheus-node_exporter 	shaba @everybody
+          propagator 	rider boyarsh mike sem
+          psi-plus 	week @everybody
+          python3-module-PySide2 	cas @everybody
+          pythonqt 	darktemplar @everybody
+          qcad 	cas @everybody
+          qemu 	shaba glebfm
+          qgis3 	cas @everybody
+          qmapshack 	glebfm @qa
+          qt-creator 	cas @everybody
+          qt4 	zerg
+          qt5-3d 	zerg @everybody
+          qt5-base 	zerg
+          qt5-gamepad 	mcpain zerg @everybody
+          qt5-tools 	zerg
+          qt5-virtualkeyboard 	zerg
+          qt5-wayland 	zerg
+          qt5-webengine 	zerg
+          qt5-webglplugin 	zerg @everybody
+          qt5ct 	ruslandh @everybody
+          qtsoap 	zerg @everybody
+          quesoglc 	rider
+          rakudo 	crux @everybody
+          random 	@nobody
+          reiser4progs 	darktemplar @everybody
+          repmgr 	shaba @everybody
+          rpm 	@core at imz vt
+          rust 	legion crux @everybody
+          sash 	@core
+          sblim-wbemcli 	lav @everybody
+          sbsigntools 	vt @everybody
+          scalasca 	darktemplar @everybody
+          scilab 	cas @everybody
+          scorep 	darktemplar @everybody
+          seamonkey 	cas mike @everybody
+          setools 	darktemplar sem led rider @qa
+          sibcoin 	drool @everybody
+          simpletest 	bircoph @everybody
+          slicer 	darktemplar @everybody
+          smapi 	gremlin @qa
+          smpeg 	darktemplar @everybody
+          snapd 	shaba @everybody
+          snappy-java 	viy @everybody
+          sox 	mithraen @everybody
+          speech-dispatcher 	msp manowar @everybody
+          statifier 	lav @everybody
+          strace 	ldv @norebuild
+          streamripper 	evg @everybody
+          taler 	drool @everybody
+          tdlib-purple 	grenka @everybody
+          telegram-desktop 	lav zerg
+          texstudio 	oddity @everybody
+          texworks 	grenka
+          thunderbird 	cas legion
+          tini 	cow @everybody
+          trickle 	naf @everybody
+          trikStudio 	sin @everybody
+          trikStudioJunior 	greh @everybody
+          trojita 	grenka @everybody
+          umix 	george @qa
+          util-linux 	legion boyarsh
+          v4l2onvif 	sbolshakov @everybody
+          verlihub-plugin-python 	imz @everybody
+          virtualbox 	sin nbr greh
+          vtk 	darktemplar @everybody
+          vztt 	shaba @everybody
+          waybar 	legion @everybody
+          wvdial 	cas @everybody
+          wxGTK3.0 	antohami @everybody
+          wxGTK3.1 	lav @everybody
+          xapian-omega 	lav @qa @everybody
+          xarchiver 	sem george @qa
+          xmr-stak 	drool @everybody
+          xmrig 	drool @everybody
+          xnee 	george @everybody
+          xneur 	george @everybody
+          xz 	@core vseleznv vt
+          zbar 	rider @everybody
+          zint 	underwit @everybody
+
+     libgsoap-devel-static - Static devel libraries and headers for linking with gSOAP generated stubs
+          v4l2onvif 	sbolshakov @everybody
+          virtualbox 	sin nbr greh
+
+     kf5-kdoctools-devel-static - Development files for kf5-kdoctools
+          choqok 	zerg
+          gcompris-qt 	cas @everybody
+          kamoso 	cas zerg @everybody
+          kde5-akonadi-calendar 	zerg
+          kde5-akonadi-calendar-tools 	zerg
+          kde5-akonadi-contacts 	zerg
+          kde5-akonadi-import-wizard 	zerg
+          kde5-akonadi-mime 	zerg
+          kde5-akonadi-notes 	zerg
+          kde5-akonadi-search 	zerg
+          kde5-akonadiconsole 	zerg
+          kde5-akregator 	zerg
+          kde5-ark 	zerg
+          kde5-audiocd-kio 	zerg
+          kde5-baloo-widgets 	zerg
+          kde5-bovo 	zerg
+          kde5-calendarsupport 	zerg
+          kde5-cantor 	zerg
+          kde5-dev-scripts 	zerg
+          kde5-digikam 	zerg darktemplar
+          kde5-dolphin 	zerg
+          kde5-dolphin-plugins 	zerg
+          kde5-dragon 	zerg
+          kde5-eventviews 	zerg
+          kde5-filelight 	zerg
+          kde5-grantlee-editor 	zerg
+          kde5-gwenview 	zerg
+          kde5-incidenceeditor 	zerg
+          kde5-k3b 	zerg
+          kde5-kaccounts-integration 	zerg
+          kde5-kaddressbook 	zerg
+          kde5-kaffeine 	zerg
+          kde5-kalarm 	zerg
+          kde5-kalarmcal 	zerg
+          kde5-kalgebra 	zerg
+          kde5-kalzium 	zerg
+          kde5-kamera 	zerg
+          kde5-kanagram 	zerg
+          kde5-kapptemplate 	zerg
+          kde5-kate 	zerg
+          kde5-katomic 	zerg
+          kde5-kblog 	zerg
+          kde5-kbruch 	zerg
+          kde5-kcalc 	zerg
+          kde5-kcalutils 	zerg
+          kde5-kcharselect 	zerg
+          kde5-kcron 	zerg
+          kde5-kdf 	zerg
+          kde5-kdialog 	zerg
+          kde5-keditbookmarks 	zerg
+          kde5-kfind 	zerg
+          kde5-kfloppy 	zerg
+          kde5-kgeography 	zerg mcpain
+          kde5-kget 	zerg
+          kde5-kgpg 	zerg
+          kde5-khangman 	zerg
+          kde5-khelpcenter 	zerg
+          kde5-kid3 	zerg
+          kde5-kidentitymanagement 	zerg
+          kde5-kig 	zerg
+          kde5-kimap 	zerg
+          kde5-kio-extras 	zerg
+          kde5-kio-gdrive 	zerg
+          kde5-kipi-plugins 	zerg
+          kde5-kldap 	zerg
+          kde5-kleopatra 	zerg
+          kde5-kmahjongg 	zerg
+          kde5-kmail 	zerg
+          kde5-kmail-account-wizard 	zerg
+          kde5-kmailtransport 	zerg
+          kde5-kmbox 	zerg
+          kde5-kmines 	zerg
+          kde5-kmix 	zerg
+          kde5-kmplot 	zerg
+          kde5-knavalbattle 	zerg
+          kde5-knetwalk 	zerg
+          kde5-knotes 	zerg
+          kde5-kompare 	zerg
+          kde5-konqueror 	zerg
+          kde5-konsole 	zerg
+          kde5-kontact 	zerg
+          kde5-konversation 	zerg
+          kde5-korganizer 	zerg
+          kde5-kpat 	zerg @everybody
+          kde5-kpimtextedit 	zerg
+          kde5-krdc 	zerg
+          kde5-krfb 	zerg
+          kde5-kross-interpreters 	zerg
+          kde5-kruler 	zerg
+          kde5-krusader 	akv @everybody
+          kde5-kshisen 	zerg
+          kde5-kstars 	zerg
+          kde5-ksystemlog 	zerg
+          kde5-kteatime 	zerg
+          kde5-ktimer 	zerg
+          kde5-ktnef 	zerg
+          kde5-ktorrent 	zerg
+          kde5-ktouch 	zerg
+          kde5-ktuberling 	zerg
+          kde5-kturtle 	zerg
+          kde5-kwalletmanager 	zerg
+          kde5-kwave 	zerg
+          kde5-kwordquiz 	zerg
+          kde5-libgravatar 	zerg
+          kde5-libkcddb 	zerg
+          kde5-libkcompactdisc 	zerg
+          kde5-libkdepim 	zerg
+          kde5-libkgapi 	zerg
+          kde5-libksieve 	zerg
+          kde5-lokalize 	zerg
+          kde5-lskat 	zerg
+          kde5-mailcommon 	zerg
+          kde5-mailimporter 	zerg
+          kde5-marble 	zerg mcpain
+          kde5-messagelib 	zerg
+          kde5-minuet 	zerg
+          kde5-network-filesharing 	zerg
+          kde5-okteta 	zerg
+          kde5-okular 	zerg
+          kde5-parley 	zerg
+          kde5-pim-addons 	zerg
+          kde5-pim-apps-libs 	zerg
+          kde5-pim-data-exporter 	zerg
+          kde5-pim-runtime 	zerg
+          kde5-pim-sieve-editor 	zerg
+          kde5-pimcommon 	zerg
+          kde5-poxml 	zerg
+          kde5-rocs 	zerg
+          kde5-skanlite 	zerg
+          kde5-smb4k 	zerg
+          kde5-spectacle 	zerg
+          kde5-step 	zerg
+          kde5-umbrello 	zerg
+          kdenlive 	zerg
+          kdesvn 	cas @everybody
+          kf5-baloo 	zerg
+          kf5-kcalcore 	zerg @everybody
+          kf5-kconfigwidgets 	zerg
+          kf5-kded 	zerg
+          kf5-kdelibs4support 	zerg
+          kf5-kdesignerplugin 	zerg
+          kf5-kinit 	zerg
+          kf5-kio 	zerg
+          kf5-kjs 	zerg
+          kf5-kjsembed 	zerg
+          kf5-kpackage 	zerg
+          kf5-kross 	zerg
+          kf5-kservice 	zerg
+          kf5-kwallet 	zerg
+          kf5-plasma-framework 	zerg
+          plasma5-addons 	zerg @everybody
+          plasma5-desktop 	zerg mcpain
+          plasma5-kde-cli-tools 	zerg @everybody
+          plasma5-kgamma 	zerg @everybody
+          plasma5-khotkeys 	zerg @everybody
+          plasma5-kinfocenter 	zerg @everybody
+          plasma5-kmenuedit 	zerg @everybody
+          plasma5-kscreenlocker 	zerg
+          plasma5-ksshaskpass 	zerg @everybody
+          plasma5-kwin 	zerg
+          plasma5-nm 	zerg @everybody
+          plasma5-pa 	zerg @everybody
+          plasma5-powerdevil 	zerg @everybody
+          plasma5-sdk 	zerg @everybody
+          plasma5-systemsettings 	zerg @everybody
+          plasma5-workspace 	zerg mcpain
+          qtcurve 	cas @everybody
+          quick-usb-formatter 	zerg
+          rsibreak 	cas @everybody
+          skrooge 	cas @everybody
+          tellico 	cas @everybody
+
+     libaal-devel-static - Static libraries for developing with libaal
+          reiser4progs 	darktemplar @everybody
+
+     libaal-minimal-devel-static - Static libraries for developing with libaal-minimal
+          reiser4progs 	darktemplar @everybody
+
+     libaio-devel-static - Linux-native asynchronous I/O access static library
+          lvm2 	shaba vitty rider
+
+     libatomic_ops-devel-static - A library for accessing hardware provided atomic memory operations
+          ggaoed 	sbolshakov @everybody
+          libgc 	lav @qa @everybody
+          rakudo 	crux @everybody
+
+     libcap-devel-static - Static libcap library
+          lxc 	vseleznv dans @everybody
+
+     libffi-devel-static - Static library for Foreign Function Interface development
+          libmozjs78 	aris
+
+     libsepol-devel-static - Static development files for libsepol
+          checkpolicy 	rider sem darktemplar
+          libselinux 	rider nbr darktemplar
+          policycoreutils 	rider zerg darktemplar
+          setools 	darktemplar sem led rider @qa
+
+     clang-devel-static - Provides clang-devel-static
+          bpftrace 	vt @everybody
+          castxml 	darktemplar @everybody
+          cvise 	lav @everybody
+
+     lld-devel - Provides lld-devel and lld-devel-static
+          chromium 	legion cas
+          chromium-gost 	george @everybody
+          firefox 	legion sbolshakov glebfm
+          firefox-esr 	cas @everybody
+          seamonkey 	cas mike @everybody
+          thunderbird 	cas legion
+
+     llvm-devel-static - Common symlinks and development files for LLVM static libraries
+          bcc 	vt @everybody
+          bpftrace 	vt @everybody
+          castxml 	darktemplar @everybody
+          cvise 	lav @everybody
+          dolphin-emu 	nenderus @everybody
+          ispc 	vt @everybody
+          libcxx 	lav @everybody
+          libcxxabi 	lav @everybody
+          qt-creator 	cas @everybody
+          rust 	legion crux @everybody
+
+     clang12.0-devel-static - Static libraries for clang
+          bcc 	vt @everybody
+          bpftrace 	vt @everybody
+          castxml 	darktemplar @everybody
+          cvise 	lav @everybody
+          qt-creator 	cas @everybody
+
+     llvm12.0-devel-static - Static libraries for LLVM
+          bcc 	vt @everybody
+          bpftrace 	vt @everybody
+          castxml 	darktemplar @everybody
+          cvise 	lav @everybody
+          dolphin-emu 	nenderus @everybody
+          ispc 	vt @everybody
+          libcxx 	lav @everybody
+          libcxxabi 	lav @everybody
+          qt-creator 	cas @everybody
+          rust 	legion crux @everybody
+
+     libdevmapper-devel-static - Static version of libdevmapper
+          dmraid 	aris @everybody
+
+     libtinfo-devel-static - A low-level terminfo static library
+          lvm2 	shaba vitty rider
+          sash 	@core
+
+     libnewt-devel-static - Newt windowing toolkit development files.
+          propagator 	rider boyarsh mike sem
+
+     libnss-devel-static - NSS static libraries
+          firefox 	legion sbolshakov glebfm
+          firefox-esr 	cas @everybody
+          ggz-base-libs 	viy @everybody
+          java-1.7.0-openjdk 	viy @jvm @everybody
+          java-10-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+          seamonkey 	cas mike @everybody
+          thunderbird 	cas legion
+
+     libssl-devel-static - OpenSSL static libraries
+          libwebsockets 	lav @everybody
+          xmr-stak 	drool @everybody
+          xmrig 	drool @everybody
+
+     libpcre-devel-static - Perl-compatible regular expressions static library
+          qemu 	shaba glebfm
+
+     postgresql-devel-static - Development static library for postgresql-devel
+          pg_catcheck 	kondratyuk @everybody
+          pg_rman 	darktemplar @everybody
+          qt4 	zerg
+          qt5-base 	zerg
+          repmgr 	shaba @everybody
+
+     qt5-base-devel-static - Development files for qt5-base
+          appmenu-qt5 	zerg
+          calibre 	lav
+          deepin-qt5integration 	lvol @everybody
+          deepin-qt5platform-plugins 	lvol @everybody
+          dtkwidget 	lvol @everybody
+          liri-eglfs 	sbolshakov @everybody
+          liri-materialdecoration 	sbolshakov @everybody
+          liri-platformtheme 	sbolshakov @everybody
+          maliit-framework 	zerg
+          plasma5-integration 	zerg @everybody
+          plasma5-kwin 	zerg
+          plasma5-layer-shell-qt 	zerg
+          plasma5-workspace 	zerg mcpain
+          qt5-3d 	zerg @everybody
+          qt5-gamepad 	mcpain zerg @everybody
+          qt5-wayland 	zerg
+          qt5-webglplugin 	zerg @everybody
+          qt5ct 	ruslandh @everybody
+          telegram-desktop 	lav zerg
+          vtk 	darktemplar @everybody
+
+     qt5-declarative-devel-static - Development files for qt5-declarative
+          pythonqt 	darktemplar @everybody
+          qt5-tools 	zerg
+          qt5-virtualkeyboard 	zerg
+
+     qt5-tools-devel-static - Development files for qt5-tools
+          CTK 	darktemplar @everybody
+          OpenBoard 	antohami @everybody
+          freecad 	cas @everybody
+          kde5-calendarsupport 	zerg
+          kde5-eventviews 	zerg
+          kde5-kmail-account-wizard 	zerg
+          kde5-korganizer 	zerg
+          kde5-libkdepim 	zerg
+          kde5-libksieve 	zerg
+          kde5-mailcommon 	zerg
+          kde5-mailimporter 	zerg
+          kde5-messagelib 	zerg
+          kde5-pim-apps-libs 	zerg
+          kde5-pimcommon 	zerg
+          kexi 	zerg
+          kf5-kjsembed 	zerg
+          kf5-kross 	zerg
+          kf5-kwidgetsaddons 	zerg
+          klatexformula 	george @everybody
+          lightdm-kde-greeter 	darktemplar @everybody
+          lmms 	antohami @everybody
+          musescore 	lav @qa @everybody
+          plasma5-kwin 	zerg
+          plasma5-nm 	zerg @everybody
+          python3-module-PySide2 	cas @everybody
+          pythonqt 	darktemplar @everybody
+          qcad 	cas @everybody
+          qgis3 	cas @everybody
+          qmapshack 	glebfm @qa
+          slicer 	darktemplar @everybody
+          texstudio 	oddity @everybody
+          texworks 	grenka
+          trojita 	grenka @everybody
+          zint 	underwit @everybody
+
+     libreadline-devel-static - Files needed to develop statically linked programs which use the readline library
+          fpc 	cas @qa @everybody
+          lvm2 	shaba vitty rider
+          sash 	@core
+
+     librocksdb-devel-static - Static library for rocksdb
+          clickhouse 	rider darktemplar
+
+     libslang2-devel-static - The static library for development using S-Lang
+          propagator 	rider boyarsh mike sem
+
+     tdlib-devel-static - Static libraries for tdlib
+          tdlib-purple 	grenka @everybody
+
+     libuchardet-devel-static - Static library for uchardet
+          deepin-editor 	lvol @everybody
+
+     libwvstreams-devel-static - C++ libraries for rapid application development
+          wvdial 	cas @everybody
+
+     zlib-devel-static - Static library for developing apps which will use zlib
+          aMule 	oddity @everybody
+          alleyoop 	viy @everybody
+          avarice 	majioa @everybody
+          binkd 	gremlin @qa
+          binutils 	@core
+          bpftrace 	vt @everybody
+          bubblewrap 	aris lav
+          dill 	@nobody
+          distcc 	lav @everybody
+          ghc8.6.4 	sin @everybody
+          gnustep-base 	cas @everybody
+          hashlink 	mithraen @everybody
+          honggfuzz 	vt @everybody
+          ipxe 	shaba
+          kcov 	glebfm @qa
+          kismet 	viy @everybody
+          libdwarf 	lav @everybody
+          linux-tools 	vt @everybody
+          llvm11.0 	shrek arseny
+          llvm12.0 	arseny @everybody
+          mdadm 	shaba vitty @everybody
+          ocaml 	rider shaba @qa
+          openhantek 	lav @everybody
+          openmpi 	dans stanv @everybody
+          orbuculum 	sbolshakov @everybody
+          qemu 	shaba glebfm
+          rpm 	@core at imz vt
+          sash 	@core
+          sblim-wbemcli 	lav @everybody
+          sbsigntools 	vt @everybody
+          scalasca 	darktemplar @everybody
+          scorep 	darktemplar @everybody
+          strace 	ldv @norebuild
+          streamripper 	evg @everybody
+          v4l2onvif 	sbolshakov @everybody
+          virtualbox 	sin nbr greh
+          vtk 	darktemplar @everybody
+          wxGTK3.0 	antohami @everybody
+          wxGTK3.1 	lav @everybody
+
+     libgfortran-devel-static - Dependency package for libgfortran-devel-static
+          libitpack 	@nobody
+          random 	@nobody
+
+     libstdc++-devel-static - Dependency package for libstdc++-devel-static
+          binutils 	@core
+          boinc 	oddity @everybody
+          bpftrace 	vt @everybody
+          bsign 	lav @everybody
+          ceph 	shaba @qa
+          chromium 	legion cas
+          chromium-gost 	george @everybody
+          clickhouse 	rider darktemplar
+          corectrl 	lav @everybody
+          freeradius 	shaba @everybody
+          glibc 	@core
+          gsoap 	sin @everybody
+          hurrican 	arbars @everybody
+          ispc 	vt @everybody
+          java-1.7.0-openjdk 	viy @jvm @everybody
+          java-1.8.0-openjdk 	cas viy @everybody
+          java-10-openjdk 	viy @jvm @everybody
+          java-11-openjdk 	viy @jvm @everybody
+          java-9-openjdk 	viy @jvm @everybody
+          libmegasdk 	lav @everybody
+          libmtxclient 	manowar @everybody
+          openjfx 	viy @everybody
+          praat 	mike @qa
+          qt5-webengine 	zerg
+          scilab 	cas @everybody
+          snappy-java 	viy @everybody
+          taler 	drool @everybody
+          virtualbox 	sin nbr greh
+          waybar 	legion @everybody
+          xmrig 	drool @everybody
+
+
